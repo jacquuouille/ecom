@@ -50,16 +50,16 @@ class ProductsDisplay extends ConsumerWidget {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Expanded(
-                      child: Hero( 
-                        tag: product.name, 
+                      child: Hero(
+                        tag: product.name,
                         child: ClipRRect(
-                          borderRadius: BorderRadius.circular(15.0), 
-                          child: Image.network(
-                            product.image, 
-                            height: 140, 
-                            fit: BoxFit.cover,
+                            borderRadius: BorderRadius.circular(15.0),
+                            child: Image.network(
+                              product.image,
+                              fit: BoxFit.cover,
+                              height: 120,
+                            )
                           ),
-                        ),
                       ),
                     ),
                     const SizedBox(height: 8.0),

@@ -17,7 +17,7 @@ class AuthWidget extends ConsumerWidget {
   final WidgetBuilder signedInBuilder;
   final WidgetBuilder adminSignedInBuilder;
 
-  final adminEmail = "test@test.com"; // store this somewhere else later
+  final adminEmail = "admin@admin.com"; // store this somewhere else later
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
