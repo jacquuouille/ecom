@@ -13,13 +13,13 @@ class EmptyWidget extends StatelessWidget {
       child: Column(
         mainAxisSize: MainAxisSize.min, 
         children: [
-          const SizedBox(height: 5.0),
+          const SizedBox(height: 50.0),
           Lottie.asset("assets/anim/empty.json", 
           width: 200, 
           repeat: false
           ),
           Text(text),
-          const SizedBox(height: 30.0),
+          const SizedBox(height: 70.0),
         ]
       )
     );
