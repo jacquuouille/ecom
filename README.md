@@ -9,7 +9,7 @@ In the video below, you will be able to see 2 sides of the e-commerce template a
     - the user can have a look at their shopping bag and the total price related to the chose articles. He can remove items. 
 
 - **Admin side:**
-    - the administrator handles the list of articles he wants to sell (add/remove). He choose the picture of the item, as well as the title, the description and the price related to it. 
+    - the administrator handles the list of articles he wants to sell (add/remove). He chooses the picture of the item, as well as the title, the description and the price related to it. 
    
 </br>
 
