@@ -13,8 +13,11 @@ In the video below, you will be able to see 2 sides of the e-commerce template a
    
 </br>
 
-<p align="center">    
-<img src="https://www.cjoint.com/doc/23_04/MDAoO0RRlL5_app-screenshot.png" height="604" width="330">
+<p align="center">
+<img src="https://www.cjoint.com/doc/23_04/MDAoO0RRlL5_app-screenshot.png" height="607" width="319">
+<img src="https://www.cjoint.com/doc/23_04/MDCl4lwyZAs_Screenshot-2023-04-28-at-13.55.11.png" height="607" width="319">
+<img src="https://www.cjoint.com/doc/23_04/MDCl4SO2XNs_Screenshot-2023-04-28-at-13.55.38.png" height="607" width="319">
+
 </p>
 
 https://user-images.githubusercontent.com/62380585/234684764-d09c880d-0a9f-44af-8685-d11ee491c09a.mp4
