@@ -9,6 +9,8 @@ class Product {
     final this.id, required this.name, required this.price, required this.description, required this.image
   });
 
+  double get priceWithTax => price * 1.2;
+
   Map<String, dynamic> toMap(String id) {
     return {
       'id': id, 
