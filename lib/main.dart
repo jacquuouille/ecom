@@ -14,7 +14,7 @@ void main() async {
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
   );
-  Stripe.publishableKey = "pk_test_51MyEndFE0tc3vXAHNCfxCjb7PZtZtWUF3I1hyAa3Ky5YACQM4lVkNRJONKUAIKg016NIv40h56OhF83foZncZIZS00WDIjlsnN";
+  // Stripe.publishableKey = "pk_test_51MyEndFE0tc3vXAHNCfxCjb7PZtZtWUF3I1hyAa3Ky5YACQM4lVkNRJONKUAIKg016NIv40h56OhF83foZncZIZS00WDIjlsnN";
   runApp(ProviderScope(
     child: MyApp()));
 }
