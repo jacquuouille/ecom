@@ -14,9 +14,9 @@ In the video below, you will be able to see 2 sides of the e-commerce template a
 </br>
 
 <p align="center">
-<img src="https://www.cjoint.com/doc/23_04/MDAoO0RRlL5_app-screenshot.png" height="507" width="259">
-<img src="https://www.cjoint.com/doc/23_04/MDCl4lwyZAs_Screenshot-2023-04-28-at-13.55.11.png" height="507" width="259">
-<img src="https://www.cjoint.com/doc/23_04/MDCl4SO2XNs_Screenshot-2023-04-28-at-13.55.38.png" height="507" width="259">
+<img src="https://www.cjoint.com/doc/23_04/MDAoO0RRlL5_app-screenshot.png" height="487" width="259">
+<img src="https://www.cjoint.com/doc/23_04/MDCl4lwyZAs_Screenshot-2023-04-28-at-13.55.11.png" height="487" width="259">
+<img src="https://www.cjoint.com/doc/23_04/MDCl4SO2XNs_Screenshot-2023-04-28-at-13.55.38.png" height="487" width="259">
 
 </p>
 
