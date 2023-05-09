@@ -21,3 +21,6 @@ In the video below, you will be able to see 2 sides of the e-commerce template a
 </p>
 
 https://user-images.githubusercontent.com/62380585/234684764-d09c880d-0a9f-44af-8685-d11ee491c09a.mp4
+
+>> Source Code
+https://courses.sideguide.dev/courses/flutter
