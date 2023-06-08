@@ -5,7 +5,7 @@ Here is a clean onboarding screen adapted for an e-commerce mobile app that can 
 In the video below, you will be able to see 2 sides of the e-commerce template app: 
 - **User side:** 
     - the user creates an account from the Sign-up page. 
-    - once logged in, the shopping page shows up. The user can select items to visualize them. he can also add them to their shopping bag if we wants to purchase them.  
+    - once logged in, the shopping page shows up. The user can select items to visualize them. he can also add them to their shopping bag if he wants to purchase them.  
     - the user can have a look at their shopping bag and the total price related to the chose articles. He can remove items. 
 
 - **Admin side:**
